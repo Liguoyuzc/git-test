@@ -1,8 +1,8 @@
 package com.test.git;
 
-public class GitTest {
+public class test01 {
     public static void main(String[] args) {
-        System.out.println("hellow java");
+        System.out.println("java");
         System.out.println("hellow GIT");
     }
 }
